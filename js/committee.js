@@ -148,7 +148,7 @@ const committeeMembers = [
      {
         name: "Ds Saitan",
         role: "Executive Member",
-       image: "assets/img/DsSaitan.jpeg",
+       image: "assets/img/DSSaitan.jpeg",
         description:
             "Helping NJFON organize football and community-focused initiatives."
     },
