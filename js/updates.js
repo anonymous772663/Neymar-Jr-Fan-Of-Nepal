@@ -4,7 +4,7 @@
 
             featured: {
                 category: "MATCHDAY",
-                title: "A Night for Number 10.",
+                title: "A Night for Number Samba Brazil.",
                 date: "AUG 20, 2026",
                 image: "assets/img/updates-1.jpg",
                 alt: "Neymar Jr matchday moment",
@@ -34,7 +34,7 @@
 
             "02": {
                 category: "NEYMAR",
-                title: "The Magic of Number 10.",
+                title: "The Magic of Number Brazil Football.",
                 date: "AUG 18, 2026",
                 image: "assets/img/updates-2.jpg",
                 alt: "Neymar Jr",
@@ -63,7 +63,7 @@
 
             "03": {
                 category: "BRAZIL",
-                title: "Yellow, Green & Number 10.",
+                title: "Yellow, Green & Blue Brazil.",
                 date: "AUG 16, 2026",
                 image: "assets/img/updates-3.jpg",
                 alt: "Brazil football moment",
@@ -90,7 +90,7 @@
 
             "04": {
                 category: "COMMUNITY",
-                title: "One Family, One Number 10.",
+                title: "One Family, One Team, One Brazil.",
                 date: "AUG 14, 2026",
                 image: "assets/img/updates-3.jpg",
                 alt: "NJFON community",
